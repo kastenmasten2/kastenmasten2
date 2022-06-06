@@ -1,3 +1,8 @@
+<h1>
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+### :woman_technologist: About Me :
 - 👋 Hi, I’m @kastenmasten2
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
