@@ -3,9 +3,9 @@
 <div>
 <h3>About Me :</h3>
 <ul>
-<li>👀 I’m interested in ...</li>  
-<li>🌱 I’m currently learning ...</li> 
-<li>💞️ I’m looking to collaborate on ...</li> 
+<li>👾 Part of Pinely International</li>  
+<li>📊 I’m currently learning ...</li> 
+<li>🔝 I’m looking to collaborate on ...</li> 
 <li>📫 How to reach me ...</li> 
 </ul> 
 
