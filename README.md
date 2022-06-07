@@ -6,7 +6,7 @@
 <li>👾 Part of Pinely International</li>  
 <li>📊 I’m currently learning Vue.js</li> 
 <li>🔝 I’m looking to collaborate on some interesting project</li> 
-<li>📫 How to reach me konstantin.vasilev@pinely.eu</li> 
+<li>📫 How to reach me: konstantin.vasilev@pinely.eu</li> 
 </ul> 
 
   
@@ -21,4 +21,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
+
