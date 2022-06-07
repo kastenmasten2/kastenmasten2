@@ -4,7 +4,6 @@
 <h3>About Me :</h3>
 <ul>
 <li>👾 Part of Pinely International</li>  
-<li>📊 I’m currently learning Vue.js</li> 
 <li>🔝 I’m looking to collaborate on some interesting project</li> 
 <li>📫 How to reach me: konstantin.vasilev@pinely.eu</li> 
 </ul> 
